@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Calculating the size of data types. 
+
 int main() {
     short a;
     long b;
