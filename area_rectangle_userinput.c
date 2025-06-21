@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    // Writing a program to calculate the area of a rectangle using user inputs
     int a,b;
 
     printf("Enter the length of rectangle: \n");
