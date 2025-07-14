@@ -13,8 +13,9 @@ int main()
     if (orgnum < 0)
     {
         printf("Negative numbers are not considered as palindrome.");
+        return 0;
     }
-    return 0;
+    
 
     while (temp != 0)
     {
